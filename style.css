@@ -14,7 +14,7 @@ img, h1, h2 {
 }
 
 img {
-	border: 0;
+	border: 1;
 }
 
 a:target {
@@ -75,7 +75,7 @@ td.num {
 
 hr {
 	border: 0;
-	border-top: 1px solid rgb(134, 134, 134);
+	border-top: 1px solid rgb(255, 69, 0);
 	height: 1px;
 }
 
@@ -84,13 +84,13 @@ pre {
 }
 
 pre a.h {
-	color: rgb(255, 5, 5);
+	color: rgb(255, 69, 0);
 }
 
 .A,
 span.i,
 pre a.i {
-	color: rgb(83, 0, 0);
+	color: rgb(204, 51, 0);
 }
 
 .D,
