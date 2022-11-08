@@ -104,3 +104,7 @@ pre a.i:hover,
 pre a.d:hover {
 	text-decoration: none;
 }
+
+a {
+	color: rgb(255, 69, 0);
+}
